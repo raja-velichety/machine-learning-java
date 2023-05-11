@@ -1,0 +1,11 @@
+10
+620 62 64 male married        medium
+760 35 56 male married        high
+823 40 31 female divorced     medium
+510 77 57 male single         high
+730 53 72 male single         low
+810 55 56 male married        low
+854 44 41 female married      medium
+539 85 72 male married        high
+555 77 50 female married      undetermined  
+616 68 44 male single         high

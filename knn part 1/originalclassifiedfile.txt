@@ -1,0 +1,6 @@
+5
+good
+average
+good
+average
+bad
